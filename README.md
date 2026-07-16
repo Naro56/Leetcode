@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Naro56/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Naro56/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Naro56/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
